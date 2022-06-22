@@ -50,6 +50,7 @@
         <module reference="ceab5195-25ea-4f22-9b92-103b95ca8c0c(jetbrains.mps.lang.core)" version="0" />
         <module reference="6cd670b7-4329-4665-84ea-7519ce1b005a(yepr.mps.mysql)" version="0" />
         <module reference="2e1aa2f7-12c2-4f53-add0-0266f9861f5e(yepr.mps.mysql.generator)" version="0" />
+        <module reference="4bdb63f9-97e0-4711-91e5-065b0eb8c5c9(yepr.mps.mysql.runtime)" version="0" />
       </dependencyVersions>
       <mapping-priorities />
     </generator>
@@ -86,6 +87,7 @@
     <language slang="l:7866978e-a0f0-4cc7-81bc-4d213d9375e1:jetbrains.mps.lang.smodel" version="19" />
     <language slang="l:c72da2b9-7cce-4447-8389-f407dc1158b7:jetbrains.mps.lang.structure" version="9" />
     <language slang="l:c7fb639f-be78-4307-89b0-b5959c3fa8c8:jetbrains.mps.lang.text" version="0" />
+    <language slang="l:b83431fe-5c8f-40bc-8a36-65e25f4dd253:jetbrains.mps.lang.textGen" version="1" />
     <language slang="l:9ded098b-ad6a-4657-bfd9-48636cfe8bc3:jetbrains.mps.lang.traceable" version="0" />
     <language slang="l:7a5dda62-9140-4668-ab76-d5ed1746f2b2:jetbrains.mps.lang.typesystem" version="5" />
   </languageVersions>
